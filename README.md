@@ -1,4 +1,4 @@
-## Oivier KADA
+## Olivier KADA
 
 je souhaite me former au développement web et web mobile, avec l'envie d'apprendre, de progresser et de créer des projets utiles.
 
